@@ -1,6 +1,6 @@
 {
   "name": "password-db-react-native",
-  "version": "6.0.0",
+  "version": "6.1.0",
   "description": "[Mongoose DB Documentation](https://mongoosejs.com/docs/guide.html)",
   "main": "index.js",
   "directories": {
